@@ -1,4 +1,4 @@
-# Nutrix
+# GajiCermat
 
 > Landing Page for PT. Gaji Cermat Indonesia.
 
